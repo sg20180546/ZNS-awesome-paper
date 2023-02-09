@@ -36,4 +36,4 @@
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
 
-*2. sg20180546's paper(maybe)*
+2. *sg20180546's paper(maybe)*
