@@ -34,9 +34,11 @@
 6. [Lifetime-Leveling LSM-Tree Compaction for ZNS SSD](https://dl.acm.org/doi/pdf/10.1145/3538643.3539741), HotStorage '22, Jeeyoon Jung, Dongkun Shin
 
 7. [ZonedStore: A Concurrent ZNS-Aware Cache System for Cloud Data Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912132), IEEE-ICDCS '22, Yanqi Lv1, Peiquan Jin1, Xiaoliang Wang1, Ruicheng Liu1, Liming Fang2, Yuanjin Lin2, Kuankuan Guo
-## 2023
 
 8. [ZNSwap: un-Block your Swap](https://www.usenix.org/system/files/atc22-bergman.pdf), ATC '22, Shai Bergman, Niklas Cassel, Matias Bjørling, Mark Silberstein
+
+## 2023
+
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
 
