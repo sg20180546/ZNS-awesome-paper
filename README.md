@@ -17,6 +17,8 @@
 
 4. [ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction](https://www.usenix.org/system/files/osdi21-han.pdf), OSDI '21, Kyuhwa Han, Hyunho Gwak and Dongkun Shin, Joo-Young Hwang
 
+5. [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/system/files/atc21-bjorling.pdf), ATC '21, Matias Bjørling, Abutalib Aghayev, Hans Holmberg, Aravind Ramesh, Damien Le Moal, Gregory R Ganger, George Amvrosiadis
+
 ## 2022
 
 1. [Fair-ZNS: Enhancing Fairness in ZNS SSDs through Self-balancing I/O Scheduling](https://ieeexplore.ieee.org/abstract/document/10004209?casa_token=A6ZGwOY7xwgAAAAA:5SMU1CkOywTWMu-NYlffvVTC2G-XSk1vPs9s3jkPMlxZtxKXnbzwItzn6dIg9DEz-l_7ZMgk), IEEE Transaction on CAD '22, Renping Liu, Zhenhua Tan, Yan Shen, Linbo Long, and Duo Liu
@@ -33,6 +35,8 @@
 
 7. [ZonedStore: A Concurrent ZNS-Aware Cache System for Cloud Data Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9912132), IEEE-ICDCS '22, Yanqi Lv1, Peiquan Jin1, Xiaoliang Wang1, Ruicheng Liu1, Liming Fang2, Yuanjin Lin2, Kuankuan Guo
 ## 2023
+
+8. [ZNSwap: un-Block your Swap](https://www.usenix.org/system/files/atc22-bergman.pdf), ATC '22, Shai Bergman, Niklas Cassel, Matias Bjørling, Mark Silberstein
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
 
