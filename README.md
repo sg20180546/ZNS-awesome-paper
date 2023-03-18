@@ -37,8 +37,9 @@
 
 8. [ZNSwap: un-Block your Swap](https://www.usenix.org/system/files/atc22-bergman.pdf), ATC '22, Shai Bergman, Niklas Cassel, Matias Bjørling, Mark Silberstein
 
+9. [What you can't forget: exploiting parallelism for zoned namespaces](https://dl.acm.org/doi/10.1145/3538643.3539744), HotStorage '22, Hanyeoreum Bae, Jiseon Kim, Miryeong Kwon, Myoungsoo Jung
+ 
 ## 2023
-
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
 
