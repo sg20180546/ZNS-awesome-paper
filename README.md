@@ -38,7 +38,11 @@
 8. [ZNSwap: un-Block your Swap](https://www.usenix.org/system/files/atc22-bergman.pdf), ATC '22, Shai Bergman, Niklas Cassel, Matias Bjørling, Mark Silberstein
 
 9. [What you can't forget: exploiting parallelism for zoned namespaces](https://dl.acm.org/doi/10.1145/3538643.3539744), HotStorage '22, Hanyeoreum Bae, Jiseon Kim, Miryeong Kwon, Myoungsoo Jung
- 
+
+10. [Accelerating RocksDB for small-zone ZNS SSDs by parallel I/O mechanism](https://dl.acm.org/doi/abs/10.1145/3564695.3564774casa_token=9SrbQER36IkAAAAA:gK5HjPTDo_FKJSYob3tATn7kEx9HlyYTcn6W139fIHF5HIVnB4t9BF852bxDTCu3_dsyskru5A3Qyg),Minwoo Im, Kyungsu Kang, Heonyoung Yeom
+
+11. [Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices](https://arxiv.org/pdf/2206.01547.pdf), arXiv, Nick Tehrany, Animesh Trivedi
+
 ## 2023
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
