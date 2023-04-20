@@ -47,4 +47,7 @@
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
 
-2. *sg20180546's paper(maybe)*
+2. [RAIZN: Redundant Array of Independent Zoned Namespaces](https://dl.acm.org/doi/10.1145/3575693.3575746), ACM APLOS '23, Thomas Kim, Jekyeom Jeon, Nikhil Arora, 
+Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amvrosiadis, Matias Bjørling
+
+3. *sg20180546's paper(maybe)*
