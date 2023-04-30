@@ -50,4 +50,8 @@
 2. [RAIZN: Redundant Array of Independent Zoned Namespaces](https://dl.acm.org/doi/10.1145/3575693.3575746), ACM APLOS '23, Thomas Kim, Jekyeom Jeon, Nikhil Arora, 
 Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amvrosiadis, Matias Bjørling
 
-3. *sg20180546's paper(maybe)*
+3. [ZenFS+: Nurturing Performance andIsolation to ZenFS](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10070767), IEEE ACCESS '23, MYOUNGHOON OH1, SEEHWAN YOO, JONGMOO CHOI, JEONGSU PARK AND CHANG-EUN CHOI
+
+4. [ConfZNS : A Novel Emulator for Exploring Design Space of ZNS SSDs](?), SYSTOR '23, Inho Song and Myounghoon Oh, Bryan S. Kim, Seehwan Yoo, Jongmoo Choi and Jae-Dong Lee
+
+5. *sg20180546's paper(maybe)*
