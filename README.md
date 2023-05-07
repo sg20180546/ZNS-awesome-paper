@@ -43,6 +43,8 @@
 
 11. [Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices](https://arxiv.org/pdf/2206.01547.pdf), arXiv, Nick Tehrany, Animesh Trivedi
 
+12. [Zoned Namespace Command Set Specification](https://nvmexpress.org/wp-content/uploads/NVM-Express-Zoned-Namespace-Command-Set-Specification-1.1c-2022.10.03-Ratified.pdf)
+
 ## 2023
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
