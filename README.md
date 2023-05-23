@@ -56,4 +56,4 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 4. [ConfZNS : A Novel Emulator for Exploring Design Space of ZNS SSDs](?), SYSTOR '23, Inho Song and Myounghoon Oh, Bryan S. Kim, Seehwan Yoo, Jongmoo Choi and Jae-Dong Lee
 
-**5. [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://discos.sogang.ac.kr/file/2023/intl_conf/HotStorage_2023_S_Byun.pdf), HotStorage '23, Sungjin Byeon, Joseph Ro, Safdar Jamil, Jeong-Uk Kang, Youngjae Kim**
+5. [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://discos.sogang.ac.kr/file/2023/intl_conf/HotStorage_2023_S_Byun.pdf), HotStorage '23, **Sungjin Byeon**, Joseph Ro, Safdar Jamil, Jeong-Uk Kang, Youngjae Kim
