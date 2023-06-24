@@ -1,5 +1,7 @@
 # Paper related to ZNS SSD
 
+Anyone can contribute to this repository, Please find awesome-papers related to ZNS!!
+
 ## 2017
 1. [LightNVM: The Linux Open-Channel SSD Subsystem](https://www.usenix.org/system/files/conference/fast17/fast17-bjorling.pdf), FAST '17, Matias Bjørling, Javier Gonzalez, Philippe Bonnet,
 
