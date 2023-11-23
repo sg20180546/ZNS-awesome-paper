@@ -66,7 +66,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 8. [eZNS: An Elastic Zoned Namespace for Commodity ZNS SSDs](https://www.usenix.org/conference/osdi23/presentation/min), OSDI '23, Jaehong Min and Chenxingyu Zhao, University of Washington; Ming Liu, University of Wisconsin-Madison; Arvind Krishnamurthy, University of Washington
 
-9. [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs]([https://www.usenix.org/conference/osdi23/presentation/min](https://dl.acm.org/doi/pdf/10.1145/3608476)), ACM TACO '23, DONG HUANG, DAN FENG, QIANKUN LIU, BO DING, WEI ZHAO, XUELIANG WEI, and WEI TONG
+9. [SplitZNS: Towards an Efficient LSM-Tree on Zoned Namespace SSDs](https://dl.acm.org/doi/pdf/10.1145/3608476), ACM TACO '23, DONG HUANG, DAN FENG, QIANKUN LIU, BO DING, WEI ZHAO, XUELIANG WEI, and WEI TONG
 
 10. [ZapRAID: Toward High-Performance RAID for ZNS SSDs via Zone Append](https://dl.acm.org/doi/pdf/10.1145/3609510.3609810?casa_token=vrB86oJXb-gAAAAA:FO0RGUXfWTbSAJdcbWqa5dZ2p6EaSyFRIbGTOo-v2ZY7d-TYpEU2JKA-_w3R2_aFPdrl1_mkBd9L), ACM SIGOPS, Qiuping Wang, Patrick P. C. Lee
 
