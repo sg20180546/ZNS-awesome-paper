@@ -1,6 +1,9 @@
-# Paper related to ZNS SSD
+# Paper related to ZNS (SSD, HDD)
 
 Anyone can contribute to this repository, Please find awesome-papers related to ZNS!!
+
+## 2016
+1. [ZEA, A Data Management Approach for SMR](https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_manzanares.pdf), HotStorage '16, Adam Manzanares, Western Digital Research; Noah Watkins, University of California, Santa Cruz; Cyril Guyot and Damien LeMoal, Western Digital Research; Carlos Maltzahn, University of California, Santa Cruz; Zvonimr Bandic, Western Digital Research
 
 ## 2017
 1. [LightNVM: The Linux Open-Channel SSD Subsystem](https://www.usenix.org/system/files/conference/fast17/fast17-bjorling.pdf), FAST '17, Matias Bjørling, Javier Gonzalez, Philippe Bonnet,
@@ -11,6 +14,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 1. [A New LSM-style Garbage Collection Scheme for ZNS SSDs](https://www.usenix.org/system/files/hotstorage20_paper_choi_0.pdf), HotStorage '20, Gunhee Choi, Kwanghee Lee, Myunghoon Oh, Jongmoo Choi, Jhuyeong Jhin, Yongseok Oh
 
+2. [On the Design of SMR HDD Block Device Driver](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9407945), IEEE HPCC '20, Jingpeng Hao; Xubin Chen; Yifan Qiao; Yuyang Zhang; Tong Zhang
+ 
 ## 2021
 
 1. [Don’t Be a Blockhead: Zoned Namespaces Make Work on Conventional SSDs Obsolete](https://dl.acm.org/doi/abs/10.1145/3458336.3465300), HotOS '21, Theano Stavrinos, Daniel S. Berger,Ethan Katz-Bassett, Wyatt Lloyd
