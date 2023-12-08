@@ -80,3 +80,10 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 11. [RAIZN: Redundant Array of Independent Zoned Namespaces](https://dl.acm.org/doi/abs/10.1145/3575693.3575746), ASPLOS '23, Thomas Kim, Jekyeom Jeon, Nikhil Arora, Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amvrosiadis, Matias Bjørling
 
 12. [SMRstore: A Storage Engine for Cloud Object Storage on HM-SMR Drives](https://www.usenix.org/system/files/fast23-zhou-su.pdf), FAST '23, Alibaba Group
+
+13. [A Universal SMR-aware Cache Framework with Deep Optimization for DM-SMR and HM-SMR Disks](https://dl.acm.org/doi/pdf/10.1145/3588442), ACM TOS '23, Diansen Sun, Ruixiong Tan, Yunpeng Chai
+
+
+ 
+
+
