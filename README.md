@@ -12,7 +12,7 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 ## 2019
 
-1. [ZoneTier: A Zone-based Storage Tiering and Caching Co-design to Integrate SSDs with SMR Drives]() ACM TOS '19, Xuchao Xie, Liquan Xiao, David H.C. Du
+1. [ZoneTier: A Zone-based Storage Tiering and Caching Co-design to Integrate SSDs with SMR Drives](https://dl.acm.org/doi/pdf/10.1145/3335548) ACM TOS '19, Xuchao Xie, Liquan Xiao, David H.C. Du
 
  
 ## 2020
