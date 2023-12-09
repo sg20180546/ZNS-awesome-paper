@@ -10,6 +10,11 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 2. [SMORE: A Cold Data Object Store for SMR Drives (Extended Version)](https://arxiv.org/abs/1705.09701), arXiv, Peter Macko, Xiongzi Ge, John Haskins Jr., James Kelley, David Slik, Keith A. Smith, Maxim G. Smith
 
+## 2019
+
+1. [ZoneTier: A Zone-based Storage Tiering and Caching Co-design to Integrate SSDs with SMR Drives]() ACM TOS '19, Xuchao Xie, Liquan Xiao, David H.C. Du
+
+ 
 ## 2020
 
 1. [A New LSM-style Garbage Collection Scheme for ZNS SSDs](https://www.usenix.org/system/files/hotstorage20_paper_choi_0.pdf), HotStorage '20, Gunhee Choi, Kwanghee Lee, Myunghoon Oh, Jongmoo Choi, Jhuyeong Jhin, Yongseok Oh
