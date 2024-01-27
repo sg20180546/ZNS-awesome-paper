@@ -88,6 +88,8 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 13. [A Universal SMR-aware Cache Framework with Deep Optimization for DM-SMR and HM-SMR Disks](https://dl.acm.org/doi/pdf/10.1145/3588442), ACM TOS '23, Diansen Sun, Ruixiong Tan, Yunpeng Chai
 
+14. [Performance Characterization of NVMe Flash Devices with Zoned Namespaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10319951&casa_token=Lcb3CEIdBrMAAAAA:Iulf7aBLAe_vgR5eorlJ9VyVDp7pCG4ZdsTDxyQsIgzyvjyBq_LIteIrW5udEhugJZGybsIE), IEEE CLUSTER '23, Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran1, Matias Bjørling3, and Animesh Trivedi
+
 ## 2024
 
 1 . [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
