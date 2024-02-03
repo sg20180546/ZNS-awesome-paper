@@ -13,7 +13,7 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 2. [SMORE: A Cold Data Object Store for SMR Drives (Extended Version)](https://arxiv.org/abs/1705.09701), arXiv, Peter Macko, Xiongzi Ge, John Haskins Jr., James Kelley, David Slik, Keith A. Smith, Maxim G. Smith
 
 ## 2018
-1. [On Improving the Write Responsiveness for Host-Aware SMR Drives]() ACM TOC '18
+1. [On Improving the Write Responsiveness for Host-Aware SMR Drives]() ACM TOC '18, Ming-Chang Yang, Member, Yuan-Hao Chang and Fenggang Wu, Tei-Wei Kuo, David H.C. Du
 
 ## 2019
 
@@ -100,7 +100,9 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 14. [Performance Characterization of NVMe Flash Devices with Zoned Namespaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10319951&casa_token=Lcb3CEIdBrMAAAAA:Iulf7aBLAe_vgR5eorlJ9VyVDp7pCG4ZdsTDxyQsIgzyvjyBq_LIteIrW5udEhugJZGybsIE), IEEE CLUSTER '23, Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran1, Matias Bjørling3, and Animesh Trivedi
 
-15. [SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360958), IEEE ICCD '23, Zhichao Cao, Hao Wen, Fenggang Wu, David H.C. Du
+15. [SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360958), IEEE ICCD '23, Zhichao Cao, Hao Wen, Fenggang Wu, David H.C. Du
+
+16. [Building GC-free Key-value Store on HM-SMR Drives with ZoneFS](https://dl.acm.org/doi/pdf/10.1145/3502846?casa_token=2hucf_cXk6YAAAAA:q09QljKyNXd2xR8YS69cs7ejTEtpj9KV8YHZnhhhMTB6KhqleiXHXX4c4y5rkacaiu7qn_gYbERd), YIWEN ZHANG, TING YAO, JIGUANG WAN and CHANGSHENG XIE
 
 ## 2024
 
