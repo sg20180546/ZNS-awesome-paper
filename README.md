@@ -12,6 +12,9 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 2. [SMORE: A Cold Data Object Store for SMR Drives (Extended Version)](https://arxiv.org/abs/1705.09701), arXiv, Peter Macko, Xiongzi Ge, John Haskins Jr., James Kelley, David Slik, Keith A. Smith, Maxim G. Smith
 
+## 2018
+1. [On Improving the Write Responsiveness for Host-Aware SMR Drives]() ACM TOC '18
+
 ## 2019
 
 1. [ZoneTier: A Zone-based Storage Tiering and Caching Co-design to Integrate SSDs with SMR Drives](https://dl.acm.org/doi/pdf/10.1145/3335548) ACM TOS '19, Xuchao Xie, Liquan Xiao, David H.C. Du
@@ -37,6 +40,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 4. [ZNS+: Advanced Zoned Namespace Interface for Supporting In-Storage Zone Compaction](https://www.usenix.org/system/files/osdi21-han.pdf), OSDI '21, Kyuhwa Han, Hyunho Gwak and Dongkun Shin, Joo-Young Hwang
 
 5. [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/system/files/atc21-bjorling.pdf), ATC '21, Matias Bjørling, Abutalib Aghayev, Hans Holmberg, Aravind Ramesh, Damien Le Moal, Gregory R Ganger, George Amvrosiadis
+
+6. [FluidSMR: Adaptive Management for Hybrid SMR Drives](https://dl.acm.org/doi/abs/10.1145/3465404) ACM TOS '21,FENGGANG WU,BINGZHE LI,DAVID H. C. DU
 
 ## 2022
 
@@ -95,9 +100,11 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 14. [Performance Characterization of NVMe Flash Devices with Zoned Namespaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10319951&casa_token=Lcb3CEIdBrMAAAAA:Iulf7aBLAe_vgR5eorlJ9VyVDp7pCG4ZdsTDxyQsIgzyvjyBq_LIteIrW5udEhugJZGybsIE), IEEE CLUSTER '23, Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran1, Matias Bjørling3, and Animesh Trivedi
 
+15. [SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication] (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360958), IEEE ICCD '23, Zhichao Cao, Hao Wen, Fenggang Wu, David H.C. Du
+
 ## 2024
 
-1 . [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
+1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
 
 
 
