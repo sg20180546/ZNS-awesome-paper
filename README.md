@@ -5,6 +5,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 ## 2016
 1. [ZEA, A Data Management Approach for SMR](https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_manzanares.pdf), HotStorage '16, Adam Manzanares, Western Digital Research; Noah Watkins, University of California, Santa Cruz; Cyril Guyot and Damien LeMoal, Western Digital Research; Carlos Maltzahn, University of California, Santa Cruz; Zvonimr Bandic, Western Digital Research
 
+2. [Evaluating Host Aware SMR Drives](https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_wu.pdf), HotStorage '16, Fenggang Wu Ming-Chang Yang† Ziqi Fan Baoquan Zhang, Xiongzi Ge David H.C. Du
+
 ## 2017
 1. [LightNVM: The Linux Open-Channel SSD Subsystem](https://www.usenix.org/system/files/conference/fast17/fast17-bjorling.pdf), FAST '17, Matias Bjørling, Javier Gonzalez, Philippe Bonnet,
 
@@ -14,6 +16,9 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 1. [ZoneTier: A Zone-based Storage Tiering and Caching Co-design to Integrate SSDs with SMR Drives](https://dl.acm.org/doi/pdf/10.1145/3335548) ACM TOS '19, Xuchao Xie, Liquan Xiao, David H.C. Du
 
+2. [ZoneAlloy: Elastic Data and Space Management for Hybrid SMR Drives](https://www.usenix.org/system/files/hotstorage19-paper-wu-fenggang.pdf), HotStorage '19, Fenggang Wu Bingzhe Li Zhichao Cao Baoquan Zhang, Ming-Hong Yang Hao Wen David H.C. Du
+
+3 [Performance Evaluation of Host Aware Shingled Magnetic Recording (HA-SMR) Drives](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7942044&casa_token=o8AvjQbkRK8AAAAA:x_BBrttzskGJS9WEw3aG3pO2IbOQdIe3G0iaj2OKOYaIb1pxz82iwHQ03tu-mXAZHMgEOgGy&tag=1), Fenggang Wu, Ziqi Fan, Ming-Chang Yang, Baoquan Zhang, Xiongzi Ge, and David H.C. Du
  
 ## 2020
 
