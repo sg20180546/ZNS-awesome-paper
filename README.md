@@ -41,7 +41,7 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 5. [ZNS: Avoiding the Block Interface Tax for Flash-based SSDs](https://www.usenix.org/system/files/atc21-bjorling.pdf), ATC '21, Matias Bjørling, Abutalib Aghayev, Hans Holmberg, Aravind Ramesh, Damien Le Moal, Gregory R Ganger, George Amvrosiadis
 
-6. [FluidSMR: Adaptive Management for Hybrid SMR Drives](https://dl.acm.org/doi/abs/10.1145/3465404) ACM TOS '21,FENGGANG WU,BINGZHE LI,DAVID H. C. DU
+6. [FluidSMR: Adaptive Management for Hybrid SMR Drives](https://dl.acm.org/doi/abs/10.1145/3465404) ACM TOS '21,FENGGANG WU,BINGZHE LI,DAVID H. C. DU (Extension of ZoneAlloy,HotStorage '19)
 
 ## 2022
 
