@@ -69,6 +69,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 12. [Zoned Namespace Command Set Specification](https://nvmexpress.org/wp-content/uploads/NVM-Express-Zoned-Namespace-Command-Set-Specification-1.1c-2022.10.03-Ratified.pdf)
 
+13. [InDeF: An Advanced Defragmenter Supporting Migration Offloading on ZNS SSD](https://ieeexplore.ieee.org/document/9978492), IEEE ICCD '22, Wenjie Qi, Zhipeng Tan, Jicheng Shao, Lihua Yang, Yang Xiao
+
 ## 2023
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
@@ -102,7 +104,9 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 15. [SMRTS: A Performance and Cost-Effectiveness Optimized SSD-SMR Tiered File System with Data Deduplication](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360958), IEEE ICCD '23, Zhichao Cao, Hao Wen, Fenggang Wu, David H.C. Du
 
-16. [Building GC-free Key-value Store on HM-SMR Drives with ZoneFS](https://dl.acm.org/doi/pdf/10.1145/3502846?casa_token=2hucf_cXk6YAAAAA:q09QljKyNXd2xR8YS69cs7ejTEtpj9KV8YHZnhhhMTB6KhqleiXHXX4c4y5rkacaiu7qn_gYbERd), YIWEN ZHANG, TING YAO, JIGUANG WAN and CHANGSHENG XIE
+16. [Building GC-free Key-value Store on HM-SMR Drives with ZoneFS](https://dl.acm.org/doi/pdf/10.1145/3502846?casa_token=2hucf_cXk6YAAAAA:q09QljKyNXd2xR8YS69cs7ejTEtpj9KV8YHZnhhhMTB6KhqleiXHXX4c4y5rkacaiu7qn_gYbERd), ACM TOS '23 ,YIWEN ZHANG, TING YAO, JIGUANG WAN and CHANGSHENG XIE
+
+17. [BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD](https://ieeexplore.ieee.org/document/10360948?denied=), IEEE ICCD '23 ,Wenjie Qi, Zhipeng Tan, Ziyue Zhang, Jing Zhang, Chao Yu, Ying Yuan, Shikai Tan
 
 ## 2024
 
