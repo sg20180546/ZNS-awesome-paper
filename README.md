@@ -73,6 +73,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 13. [InDeF: An Advanced Defragmenter Supporting Migration Offloading on ZNS SSD](https://ieeexplore.ieee.org/document/9978492), IEEE ICCD '22, Wenjie Qi, Zhipeng Tan, Jicheng Shao, Lihua Yang, Yang Xiao
 
+14. [Selective Power-Loss-Protection Method for Write Buffer in ZNS SSDs](https://www.mdpi.com/2079-9292/11/7/1086) MDPI'22, Peiquan Jin, Xiangyu Zhuang, Yongping Luo, Mingchen Lu 
+
 ## 2023
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
