@@ -43,6 +43,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 6. [FluidSMR: Adaptive Management for Hybrid SMR Drives](https://dl.acm.org/doi/abs/10.1145/3465404) ACM TOS '21,FENGGANG WU,BINGZHE LI,DAVID H. C. DU (Extension of ZoneAlloy,HotStorage '19)
 
+7. [Exploring index structures for zoned namespaces SSDs](https://ieeexplore.ieee.org/abstract/document/9671606) IEEE Big Data'21, Peiquan Jin, Xiangyu Zhuang, Yongping Luo, Mingchen Luo
+
 ## 2022
 
 1. [Fair-ZNS: Enhancing Fairness in ZNS SSDs through Self-balancing I/O Scheduling](https://ieeexplore.ieee.org/abstract/document/10004209?casa_token=A6ZGwOY7xwgAAAAA:5SMU1CkOywTWMu-NYlffvVTC2G-XSk1vPs9s3jkPMlxZtxKXnbzwItzn6dIg9DEz-l_7ZMgk), IEEE Transaction on CAD '22, Renping Liu, Zhenhua Tan, Yan Shen, Linbo Long, and Duo Liu
@@ -107,6 +109,10 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 16. [Building GC-free Key-value Store on HM-SMR Drives with ZoneFS](https://dl.acm.org/doi/pdf/10.1145/3502846?casa_token=2hucf_cXk6YAAAAA:q09QljKyNXd2xR8YS69cs7ejTEtpj9KV8YHZnhhhMTB6KhqleiXHXX4c4y5rkacaiu7qn_gYbERd), ACM TOS '23 ,YIWEN ZHANG, TING YAO, JIGUANG WAN and CHANGSHENG XIE
 
 17. [BlzFS: Crash Consistent Log-structured File System Based on Byte-loggable Zone for ZNS SSD](https://ieeexplore.ieee.org/document/10360948?denied=), IEEE ICCD '23 ,Wenjie Qi, Zhipeng Tan, Ziyue Zhang, Jing Zhang, Chao Yu, Ying Yuan, Shikai Tan
+
+18. [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/abs/10.14778/3611479.3611495), VLDB Endowment, 16(11), Jongsung Lee, Dongkuk Kim, Jae W. Lee
+
+19. [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/abs/10.1145/3555776.3577758), SAC'23, Jin Yong Ha, Heon Young Yeom
 
 ## 2024
 
