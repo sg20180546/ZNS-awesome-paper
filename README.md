@@ -73,7 +73,7 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 13. [InDeF: An Advanced Defragmenter Supporting Migration Offloading on ZNS SSD](https://ieeexplore.ieee.org/document/9978492), IEEE ICCD '22, Wenjie Qi, Zhipeng Tan, Jicheng Shao, Lihua Yang, Yang Xiao
 
-14. [Selective Power-Loss-Protection Method for Write Buffer in ZNS SSDs](https://www.mdpi.com/2079-9292/11/7/1086) MDPI'22, Peiquan Jin, Xiangyu Zhuang, Yongping Luo, Mingchen Lu 
+14. [Selective Power-Loss-Protection Method for Write Buffer in ZNS SSDs](https://www.mdpi.com/2079-9292/11/7/1086) MDPI '22, Peiquan Jin, Xiangyu Zhuang, Yongping Luo, Mingchen Lu 
 
 ## 2023
 
@@ -114,7 +114,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 18. [WALTZ: Leveraging Zone Append to Tighten the Tail Latency of LSM Tree on ZNS SSD](https://dl.acm.org/doi/abs/10.14778/3611479.3611495), VLDB Endowment, 16(11), Jongsung Lee, Dongkuk Kim, Jae W. Lee
 
-19. [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/abs/10.1145/3555776.3577758), SAC'23, Jin Yong Ha, Heon Young Yeom
+19. [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/abs/10.1145/3555776.3577758), SAC '23, Jin Yong Ha, Heon Young Yeom
 
 ## 2024
 
