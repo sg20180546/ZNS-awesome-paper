@@ -116,6 +116,10 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 19. [zCeph: Achieving High Performance On Storage System Using Small Zoned ZNS SSD](https://dl.acm.org/doi/abs/10.1145/3555776.3577758), SAC '23, Jin Yong Ha, Heon Young Yeom
 
+20. [Persimmon: an append-only ZNS-first filesystem](https://ssrc.us/media/pubs/880596b795f418c6b22f8403d03b45e87179387b.pdf), IEEE ICCD '23, Devashish R. Purandare, Sam Schmidt, and Ethan L. Miller
+
+21. [Achieving Performance Isolation in Docker Environments with ZNS SSDs](https://ieeexplore.ieee.org/document/10254344), IEEE NVMSA '23, Yejin Han, Myunghoon Oh, Jaedong Lee, Seehwan Yoo, Bryan S. Kim Jongmoo Choi
+
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
