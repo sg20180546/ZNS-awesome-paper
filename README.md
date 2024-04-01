@@ -126,7 +126,13 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](), MSST '24, **Sungjin Byeon**, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
 
+3. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang\
 
+4. [PRESS: Persistence Relaxation for Efficient and Secure Data Sanitization on Zoned Namespace Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473986&casa_token=PnHRHOcgA_wAAAAA:fUpToEtoTCcRZCqi-XwRdBX6yBSsLNjpyogbuCWzuCWauUQFOWG1Q-csnhkdYn8OSJUsHCawYg), IEEE ASP-DAC '24, Yun-Shan Hsieh, Bo-Jun Chen, Po-Chun Huang, Yuan-Hao Chang
+
+5. [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24, N Tehrany, K Doekemeijer, A Trivedi
+
+6. [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://atlarge-research.com/pdfs/2024-zns-wal.pdf), CHEOPS '24, K Doekemeijer, Z Ren, N Tehrany, A Trivedi
 
 
  
