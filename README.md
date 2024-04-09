@@ -134,6 +134,8 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 6. [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://atlarge-research.com/pdfs/2024-zns-wal.pdf), CHEOPS '24, K Doekemeijer, Z Ren, N Tehrany, A Trivedi
 
+7. [ZoneTrace: A Zone Monitoring Tool for F2FS on ZNS SSDs](https://dl.acm.org/doi/abs/10.1145/3656172), ACM TODAES '24, PX Chen, D Seo, C Sung, J Park, M Lee M, H Li, M Bjørling, N Dutt
+
 
  
 
