@@ -86,7 +86,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 4. [ConfZNS : A Novel Emulator for Exploring Design Space of ZNS SSDs](?), SYSTOR '23, Inho Song and Myounghoon Oh, Bryan S. Kim, Seehwan Yoo, Jongmoo Choi and Jae-Dong Lee
 
-5. [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://www.hotstorage.org/2023/accepted.html), HotStorage '23, **Sungjin Byeon**, Joseph Ro, Safdar Jamil, Jeong-Uk Kang, Youngjae Kim
+5. [A Free-Space Adaptive Runtime Zone-Reset Algorithm for Enhanced ZNS Efficiency](https://www.hotstorage.org/2023/accepted.html), HotStorage '23, Sungjin Byeon, Joseph Ro, Safdar Jamil, Jeong-Uk Kang, Youngjae Kim
 
 6. [Is Garbage Collection Overhead Gone? Case study of F2FS on ZNS SSDs](https://www.hotstorage.org/2023/accepted.html), HotStorage '23, Dongjoo Seo, Ping-Xiang Chen, University of California, Irvine; Huaicheng Li, Virginia Tech; Matias Bjorling, Western Digital; Nikil Dutt, University of California, Irvine
 
@@ -124,7 +124,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
 
-2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](), MSST '24, **Sungjin Byeon**, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
+2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](), MSST '24, Sungjin Byeon, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
 
 3. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang\
 
