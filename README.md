@@ -75,6 +75,8 @@ Anyone can contribute to this repository, Please find awesome-papers related to 
 
 14. [Selective Power-Loss-Protection Method for Write Buffer in ZNS SSDs](https://www.mdpi.com/2079-9292/11/7/1086) MDPI '22, Peiquan Jin, Xiangyu Zhuang, Yongping Luo, Mingchen Lu 
 
+15. [Efficient LSM-Tree Key-Value Data Management on Hybrid SSD/HDD Zoned Storage](https://arxiv.org/abs/2205.11753), arXiv, Jinhong Li, Qiuping Wang, Patrick P. C. Lee
+
 ## 2023
 
 1. [Preemptive Zone Reset Design within Zoned Namespace SSD Firmware](https://www.mdpi.com/2079-9292/12/4/798), MDPI '23, Siu Jung, Seungjin Lee, Jungwook Han, Youngjae Kim
@@ -124,17 +126,19 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
 
-2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](), MSST '24, Sungjin Byeon, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
+2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/program/), MSST '24, Sungjin Byeon, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
 
-3. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang\
+3. [Prophet: LSM Key-Value Store Optimizations on ZNS SSDs with File Lifetime Prediction and Compaction Compensation](https://www.msstconference.org/program/), MSST '24, Gaoji Liu, Chongzhuo Yang, Qiaolin Yu, Chang Guo, Haocheng Zhang, Wen Xia, Zhichao Cao
+   
+4. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang\
 
-4. [PRESS: Persistence Relaxation for Efficient and Secure Data Sanitization on Zoned Namespace Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473986&casa_token=PnHRHOcgA_wAAAAA:fUpToEtoTCcRZCqi-XwRdBX6yBSsLNjpyogbuCWzuCWauUQFOWG1Q-csnhkdYn8OSJUsHCawYg), IEEE ASP-DAC '24, Yun-Shan Hsieh, Bo-Jun Chen, Po-Chun Huang, Yuan-Hao Chang
+5. [PRESS: Persistence Relaxation for Efficient and Secure Data Sanitization on Zoned Namespace Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473986&casa_token=PnHRHOcgA_wAAAAA:fUpToEtoTCcRZCqi-XwRdBX6yBSsLNjpyogbuCWzuCWauUQFOWG1Q-csnhkdYn8OSJUsHCawYg), IEEE ASP-DAC '24, Yun-Shan Hsieh, Bo-Jun Chen, Po-Chun Huang, Yuan-Hao Chang
 
-5. [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24, N Tehrany, K Doekemeijer, A Trivedi
+6. [zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs](https://atlarge-research.com/pdfs/2024-zns-tools.pdf), CHEOPS '24, N Tehrany, K Doekemeijer, A Trivedi
 
-6. [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://atlarge-research.com/pdfs/2024-zns-wal.pdf), CHEOPS '24, K Doekemeijer, Z Ren, N Tehrany, A Trivedi
+7. [ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends](https://atlarge-research.com/pdfs/2024-zns-wal.pdf), CHEOPS '24, K Doekemeijer, Z Ren, N Tehrany, A Trivedi
 
-7. [ZoneTrace: A Zone Monitoring Tool for F2FS on ZNS SSDs](https://dl.acm.org/doi/abs/10.1145/3656172), ACM TODAES '24, PX Chen, D Seo, C Sung, J Park, M Lee M, H Li, M Bjørling, N Dutt
+8. [ZoneTrace: A Zone Monitoring Tool for F2FS on ZNS SSDs](https://dl.acm.org/doi/abs/10.1145/3656172), ACM TODAES '24, PX Chen, D Seo, C Sung, J Park, M Lee M, H Li, M Bjørling, N Dutt
 
 
  
