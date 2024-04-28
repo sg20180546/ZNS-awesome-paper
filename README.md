@@ -140,7 +140,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 8. [ZoneTrace: A Zone Monitoring Tool for F2FS on ZNS SSDs](https://dl.acm.org/doi/abs/10.1145/3656172), ACM TODAES '24, PX Chen, D Seo, C Sung, J Park, M Lee M, H Li, M Bjørling, N Dutt
 
-
+9. [CSAL: the Next-Gen Local Disks for the Cloud](https://dl.acm.org/doi/10.1145/3627703.3629566), EuroSys '24, Y Zhou, E Xu, L Zhang, K Karkra, M Barczak, W Gao, W Malikowski, M Kozlowski, L Łasek, R Lu, F Yang, L Huang, X Zhang, K Niu, J Zhu, J Wu
  
 
 
