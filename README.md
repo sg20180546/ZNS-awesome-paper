@@ -122,6 +122,10 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 21. [Achieving Performance Isolation in Docker Environments with ZNS SSDs](https://ieeexplore.ieee.org/document/10254344), IEEE NVMSA '23, Yejin Han, Myunghoon Oh, Jaedong Lee, Seehwan Yoo, Bryan S. Kim Jongmoo Choi
 
+22. [FlexZNS: Building High-Performance ZNS SSDs with Size-Flexible and Parity-Protected Zones](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10361036), IEEE ICCD '23, Yu Wang1, You Zhou2*, Zhonghai Lu3, Xiaoyi Zhang4, Kun Wang4, Feng Zhu4, Shu Li4, Changsheng Xie1, and Fei Wu
+
+23. [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs], IEEE ICCD '23, Weilin Zhu, Wei Tong
+
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
@@ -130,7 +134,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 3. [Prophet: LSM Key-Value Store Optimizations on ZNS SSDs with File Lifetime Prediction and Compaction Compensation](https://www.msstconference.org/program/), MSST '24, Gaoji Liu, Chongzhuo Yang, Qiaolin Yu, Chang Guo, Haocheng Zhang, Wen Xia, Zhichao Cao
    
-4. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang\
+4. [Overlapping Aware Zone Allocation for LSM Tree-Based Store on ZNS SSDs ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473944&casa_token=dskoapf4HoQAAAAA:j60hZe6EpNeHnYIE65X5Tgvm86LFotsiaB2RGX_90meO8-Lo6r0lP7zaM7ryRw8-eFRPbHXX7A&tag=1), IEEE ASP-DAC '24, Jingcheng Shen, Lang Yang, Linbo Long, Renping Liu, Zhenhua Tan, Congming Gao, and Yi Jiang
 
 5. [PRESS: Persistence Relaxation for Efficient and Secure Data Sanitization on Zoned Namespace Storage](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10473986&casa_token=PnHRHOcgA_wAAAAA:fUpToEtoTCcRZCqi-XwRdBX6yBSsLNjpyogbuCWzuCWauUQFOWG1Q-csnhkdYn8OSJUsHCawYg), IEEE ASP-DAC '24, Yun-Shan Hsieh, Bo-Jun Chen, Po-Chun Huang, Yuan-Hao Chang
 
