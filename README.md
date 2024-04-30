@@ -124,13 +124,13 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 22. [FlexZNS: Building High-Performance ZNS SSDs with Size-Flexible and Parity-Protected Zones](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10361036), IEEE ICCD '23, Yu Wang1, You Zhou2*, Zhonghai Lu3, Xiaoyi Zhang4, Kun Wang4, Feng Zhu4, Shu Li4, Changsheng Xie1, and Fei Wu
 
-23. [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs], IEEE ICCD '23, Weilin Zhu, Wei Tong
+23. [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10360957), IEEE ICCD '23, Weilin Zhu, Wei Tong
 
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
 
-2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://www.msstconference.org/program/), MSST '24, Sungjin Byeon, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
+2. [Ensuring Compaction and Zone Cleaning Efficiency through Same-Zone Compaction in ZNS Key-Value Store](https://discos.sogang.ac.kr/file/2024/intl_conf/MSST_2024_S_Byeon.pdf), MSST '24, Sungjin Byeon, Joseph Ro, Jun young Han, Jeong-Uk Kang, Youngjae Kim
 
 3. [Prophet: LSM Key-Value Store Optimizations on ZNS SSDs with File Lifetime Prediction and Compaction Compensation](https://www.msstconference.org/program/), MSST '24, Gaoji Liu, Chongzhuo Yang, Qiaolin Yu, Chang Guo, Haocheng Zhang, Wen Xia, Zhichao Cao
    
