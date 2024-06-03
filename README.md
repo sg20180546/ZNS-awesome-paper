@@ -148,3 +148,4 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
  
 10. [ZMS: Zone Abstracton for Mobile Flash Storage](https://www.usenix.org/conference/atc24/technical-sessions), ATC '24, Joo-Young Hwang, Seokhwan Kim, Daejun Park, Yong-Gil Song, Junyoung Han, Seunghyun Choi, and Sangyeun Cho, Youjip Won
 
+11. [Can ZNS SSDs be Better Storage Devices for Persistent Cache?](https://www.hotstorage.org/2024/accepted.html), HotStorage '24, Chongzhuo Yang, Zhang Cao, Chang Guo, Ming Zhao, Zhichao Cao
