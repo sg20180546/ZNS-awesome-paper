@@ -157,3 +157,5 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 14. [Hi-ZNS: High Space Efficiency and Zero-Copy LSM-Tree Based Stores on ZNS SSDs](https://icpp2024.org/index.php?option=com_content&view=article&id=6&Itemid=114), ICPP '24, Renping Liu, Junhua Chen, Peng Chen, Linbo Long, Anping Xiong, Duo Liu
 
 15. [Towards A Unified Garbage Collection Strategy in ZNS Key-Value Store File Systems Using Same-Victim GC](https://mascots24.iitis.pl/), MASCOTS '24, Hamin Hwangbo, Joseph Ro, Sungjin Byeon, Safdar Jamil, Junyoung Han, Jooyoung Hwang and Youngjae Kim
+
+16. [BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance](https://sigops.org/s/conferences/sosp/2024/index.html), SOSP '24, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
