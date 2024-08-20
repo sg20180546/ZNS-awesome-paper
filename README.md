@@ -159,3 +159,6 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 15. [Towards A Unified Garbage Collection Strategy in ZNS Key-Value Store File Systems Using Same-Victim GC](https://mascots24.iitis.pl/), MASCOTS '24, Hamin Hwangbo, Joseph Ro, Sungjin Byeon, Safdar Jamil, Junyoung Han, Jooyoung Hwang and Youngjae Kim
 
 16. [BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance](https://sigops.org/s/conferences/sosp/2024/index.html), SOSP '24, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
+
+17. [GAP: A Global Wear-Aware Block Pool for Enhancing Lifetime of ZNS SSDs](https://nvmsa2024.github.io/?page=program.html), NVMSA '24, Renping Liu, Cheng Ran, Han Hu, Peng Chen, Anping Xiong and Linbo Long
+
