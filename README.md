@@ -158,7 +158,11 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 15. [Towards A Unified Garbage Collection Strategy in ZNS Key-Value Store File Systems Using Same-Victim GC](https://mascots24.iitis.pl/), MASCOTS '24, Hamin Hwangbo, Joseph Ro, Sungjin Byeon, Safdar Jamil, Junyoung Han, Jooyoung Hwang and Youngjae Kim
 
-16. [BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance](https://sigops.org/s/conferences/sosp/2024/index.html), SOSP '24, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
+17. [BIZA: Design of Self-Governing Block-Interface ZNS AFA for Endurance and Performance](https://sigops.org/s/conferences/sosp/2024/index.html), SOSP '24, Shaocong Sun, Li Peng, Yingbo Sun, Ming-Chang Yang, Zhichao Cao, Qiao Li, Myoungsoo Jung, Ke Zhou, Jie Zhang
 
-17. [GAP: A Global Wear-Aware Block Pool for Enhancing Lifetime of ZNS SSDs](https://nvmsa2024.github.io/?page=program.html), NVMSA '24, Renping Liu, Cheng Ran, Han Hu, Peng Chen, Anping Xiong and Linbo Long
+18. [GAP: A Global Wear-Aware Block Pool for Enhancing Lifetime of ZNS SSDs](https://nvmsa2024.github.io/?page=program.html), NVMSA '24, Renping Liu, Cheng Ran, Han Hu, Peng Chen, Anping Xiong and Linbo Long
+
+19. [An Adaptive Zone-Grouping Scheme Enabling General-Purpose File Systems on ZNS SSDs](https://www.systor.org/2024/program2/#full-program), SYSTOR '24, Jungyun Choi, Jongseok Kim, Jaehyung Park, Yuhun Jun and Euiseong Seo
+
+20. [Exploring I/O Management Performance in ZNS with ConfZNS++](https://www.systor.org/2024/program2/#full-program) Krijn Doekemeijer Vrije, Dennis Maisenbacher, Zebin Ren Vrije, Nick Tehrany, Matias Bjørling, Animesh Trivedi Vrije
 
