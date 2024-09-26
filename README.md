@@ -166,4 +166,6 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 20. [Exploring I/O Management Performance in ZNS with ConfZNS++](https://www.systor.org/2024/program2/#full-program), SYSTOR '24 Krijn Doekemeijer Vrije, Dennis Maisenbacher, Zebin Ren Vrije, Nick Tehrany, Matias Bjørling, Animesh Trivedi Vrije
 
-21. [Land of Oz: Resolving Orderless Writes in Zoned Namespace SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633903&casa_token=j6oDWw-wL0EAAAAA:elkxmbgIZWwabMFQLQX5WshA00Fk4W2epC-ChrVAsmLs8vgRn8MJjUpXssz1L8JGC4S5i4SFdw&tag=1), Yingjia Wang, You Zhou, Fei Wu, Jie Zhang, Ming-Chang Yang
+21. [Land of Oz: Resolving Orderless Writes in Zoned Namespace SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633903&casa_token=j6oDWw-wL0EAAAAA:elkxmbgIZWwabMFQLQX5WshA00Fk4W2epC-ChrVAsmLs8vgRn8MJjUpXssz1L8JGC4S5i4SFdw&tag=1), IEEE TOC, Yingjia Wang, You Zhou, Fei Wu, Jie Zhang, Ming-Chang Yang
+
+22. [Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping], ACM TACO '24, Zhenhua Tan, Linbo Long, Jingcheng Shen, Renping Liu, Congming Gao, Kan Zhong, Yi Jiang
