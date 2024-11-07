@@ -1,4 +1,4 @@
-# Paper related to ZNS, FDP (SSD, HDD)
+# Paper related to ZNS (SSD, HDD)
 
 Anyone can contribute to this repository, Please find awesome-papers related to ZNS and FDP!!
 
