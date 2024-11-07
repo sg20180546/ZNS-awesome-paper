@@ -126,6 +126,9 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 23. [Turn Waste Into Wealth: Alleviating Read/Write Interference in ZNS SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10360957), IEEE ICCD '23, Weilin Zhu, Wei Tong
 
+24. [FlashAlloc: Dedicating Flash Blocks By Objects](https://dl.acm.org/doi/pdf/10.14778/3611479.3611524), VLDB '23, Jonghyeok Park, Soyee Choi, Gihwan Oh, Soojun Im, Moon-Wook Oh, Sang-Won Lee
+
+
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
