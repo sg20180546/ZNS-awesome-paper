@@ -128,6 +128,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 24. [FlashAlloc: Dedicating Flash Blocks By Objects](https://dl.acm.org/doi/pdf/10.14778/3611479.3611524), VLDB '23, Jonghyeok Park, Soyee Choi, Gihwan Oh, Soojun Im, Moon-Wook Oh, Sang-Won Lee
 
+25. [KV-CSD: A Hardware-Accelerated Key-Value Store for Data-Intensive Applications](https://discos.sogang.ac.kr/file/2023/intl_conf/IEEE_Cluster_23_Y_Kim.pdf), IEEE CLUSTER '23, Inhyuk Park, Qing Zeng, Dominic Manno, Soonyeoal Yang, Jason Lee, David Bonnie, Bradley Settlemyer, Youngjae Kim, Woosuk Chung, Gray Grider
 
 ## 2024
 
