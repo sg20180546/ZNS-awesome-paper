@@ -1,6 +1,6 @@
 # Paper related to ZNS (SSD, HDD)
 
-Anyone can contribute to this repository, Please find awesome-papers related to ZNS and FDP!!
+Anyone can contribute to this repository, Please find awesome-papers related to ZNS!!
 
 ## 2016
 1. [ZEA, A Data Management Approach for SMR](https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_manzanares.pdf), HotStorage '16, Adam Manzanares, Western Digital Research; Noah Watkins, University of California, Santa Cruz; Cyril Guyot and Damien LeMoal, Western Digital Research; Carlos Maltzahn, University of California, Santa Cruz; Zvonimr Bandic, Western Digital Research
