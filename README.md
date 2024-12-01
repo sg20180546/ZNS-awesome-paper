@@ -173,3 +173,6 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 21. [Land of Oz: Resolving Orderless Writes in Zoned Namespace SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10633903&casa_token=j6oDWw-wL0EAAAAA:elkxmbgIZWwabMFQLQX5WshA00Fk4W2epC-ChrVAsmLs8vgRn8MJjUpXssz1L8JGC4S5i4SFdw&tag=1), IEEE TOC, Yingjia Wang, You Zhou, Fei Wu, Jie Zhang, Ming-Chang Yang
 
 22. [Optimizing Garbage Collection for ZNS SSDs via In-storage Data Migration and Address Remapping](https://dl.acm.org/doi/abs/10.1145/3689336), ACM TACO '24, Zhenhua Tan, Linbo Long, Jingcheng Shen, Renping Liu, Congming Gao, Kan Zhong, Yi Jiang
+
+23. [A Zoned Storage Optimized Flash Cache on ZNS SSDs](https://arxiv.org/pdf/2410.11260), arXiv, Chongzhuo Yang, Chang Guo, Ming Zhao, Zhichao Cao 
+
