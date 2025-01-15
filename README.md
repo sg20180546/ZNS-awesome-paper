@@ -182,3 +182,6 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
 
+2. [ZRAID: Leveraging Zone Random Write Area (ZRWA) for Alleviating Partial Parity Tax in ZNS RAID](), ASPLOS '25, Minwook Kim, Seongyeop Jeong, and Jin-Soo Kim 
+
+
