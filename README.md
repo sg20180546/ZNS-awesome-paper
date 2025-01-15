@@ -176,7 +176,9 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 23. [A Zoned Storage Optimized Flash Cache on ZNS SSDs](https://arxiv.org/pdf/2410.11260), arXiv, Chongzhuo Yang, Chang Guo, Ming Zhao, Zhichao Cao 
 
+24. [Efficient Data Placement in Deduplication Enabled ZenFS via CRC-Based Prediction](https://ieeexplore.ieee.org/abstract/document/10807169), IEEE Access '24, Safdar Jamil, Joseph Roe, Joo-Young Hwang, Youngjae Kim
 
 ## 2025
 
 1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
+
