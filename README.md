@@ -130,6 +130,8 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 25. [KV-CSD: A Hardware-Accelerated Key-Value Store for Data-Intensive Applications](https://discos.sogang.ac.kr/file/2023/intl_conf/IEEE_Cluster_23_Y_Kim.pdf), IEEE CLUSTER '23, Inhyuk Park, Qing Zeng, Dominic Manno, Soonyeoal Yang, Jason Lee, David Bonnie, Bradley Settlemyer, Youngjae Kim, Woosuk Chung, Gray Grider
 
+26. [LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-based KV Stores for ZNS SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360942), IEEE ICCD '23, Biyong Liu, Yuan Xia, Xueliang Wei, Wei Tong
+
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
