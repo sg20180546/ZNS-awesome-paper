@@ -180,6 +180,8 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 24. [Efficient Data Placement in Deduplication Enabled ZenFS via CRC-Based Prediction](https://ieeexplore.ieee.org/abstract/document/10807169), IEEE Access '24, Safdar Jamil, Joseph Roe, Joo-Young Hwang, Youngjae Kim
 
+25. [Balloon-ZNS: Constructing High-Capacity and Low-Cost ZNS SSDs with Built-in Compression](https://dl.acm.org/doi/pdf/10.1145/3649329.3657368), ACM DAC '24, Y Wang, Z Sun, Y Zhou, T Lu, C Xie, F Wu
+
 ## 2025
 
 1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
