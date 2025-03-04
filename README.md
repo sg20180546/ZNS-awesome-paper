@@ -182,10 +182,20 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 25. [Balloon-ZNS: Constructing High-Capacity and Low-Cost ZNS SSDs with Built-in Compression](https://dl.acm.org/doi/pdf/10.1145/3649329.3657368), ACM DAC '24, Y Wang, Z Sun, Y Zhou, T Lu, C Xie, F Wu
 
+26. [Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration](), HPCA '25, Y Wang, T Lu, Y Liang, X Chen, MC Yang, ICCAD '24, Y Wang, LY Chow, X Nie, Y Liang, MC Yang
+
+
+
 ## 2025
 
 1. [Storage Abstractions for SSDs: The Past, Present, and Future](https://dl.acm.org/doi/pdf/10.1145/3708992), ACM TOS '25, Xiangqun Zhang, Janki Bhimani, Shuyi Pei, Eunji Lee, Sungjin Lee, Yoon Jae Seong, Eui Jin Kim, Changho Choi, Eyee Hyun Nam, Jongmoo Choi, Bryan S. Kim
 
-2. [ZRAID: Leveraging Zone Random Write Area (ZRWA) for Alleviating Partial Parity Tax in ZNS RAID](), ASPLOS '25, Minwook Kim, Seongyeop Jeong, and Jin-Soo Kim 
+2. [ZRAID: Leveraging Zone Random Write Area (ZRWA) for Alleviating Partial Parity Tax in ZNS RAID](), ASPLOS '25, Minwook Kim, Seongyeop Jeong, and Jin-Soo Kim
+
+3. [ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree](https://dl.acm.org/doi/10.1145/3715331), ACM TOS '25, Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, Ming-Chang Yang
+
+
+5.  [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)], HPCA'25, Tianyang Jiang, Guangyan Zhang, Xiaojian Liao, and Yuqi Zhou
+ 
 
 
