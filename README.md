@@ -195,7 +195,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 3. [ZonesDB: Building Write-Optimized and Space-Adaptive Key-Value Store on Zoned Storage with Fragmented LSM Tree](https://dl.acm.org/doi/10.1145/3715331), ACM TOS '25, Yuhong Liang, Yingjia Wang, Tsun-Yu Yang, Matias Bjørling, Ming-Chang Yang
 
 
-5.  [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)], HPCA'25, Tianyang Jiang, Guangyan Zhang, Xiaojian Liao, and Yuqi Zhou
+5.  [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)](https://hpca-conf.org/2025/main-program/), HPCA'25, Tianyang Jiang, Guangyan Zhang, Xiaojian Liao, and Yuqi Zhou
  
 
 
