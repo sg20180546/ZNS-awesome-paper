@@ -198,5 +198,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 5.  [Zebra: Efficient Redundant Array of Zoned Namespace SSDs Enabled by Zone Random Write Area (ZRWA)](https://hpca-conf.org/2025/main-program/), HPCA'25, Tianyang Jiang, Guangyan Zhang, Xiaojian Liao, and Yuqi Zhou
  
+6. [CRAZNS: A Case for Conventional Namespace Support for RAID with ZNS SSDs](https://dl.acm.org/doi/10.1145/3672608.3707937?__cf_chl_f_tk=7vHNiunXoqQitNtPAbcIWU.J3ImRgRACGTWP4jfQ9ZI-1755879586-1.0.1.1-fMTcHt2aMr80aARqgMQ8gSjbKxeTiGnSbxC.air31qw), SAC '25, Hangyul Kim, Inho Song, Sam H. Noh
 
+7. [Staying in the Zone - Retrofitting Zoned Storage into a Scalable Enterprise File System](https://apsys2025.github.io/accepted_papers.html), ApSys '25
 
