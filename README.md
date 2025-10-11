@@ -2,6 +2,8 @@
 
 Anyone can contribute to this repository, Please find awesome-papers related to ZNS!!
 
+[FDP-awesome-paper](https://github.com/sg20180546/FDP-awesome-paper)
+
 ## 2016
 1. [ZEA, A Data Management Approach for SMR](https://www.usenix.org/system/files/conference/hotstorage16/hotstorage16_manzanares.pdf), HotStorage '16, Adam Manzanares, Western Digital Research; Noah Watkins, University of California, Santa Cruz; Cyril Guyot and Damien LeMoal, Western Digital Research; Carlos Maltzahn, University of California, Santa Cruz; Zvonimr Bandic, Western Digital Research
 
@@ -200,5 +202,5 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
  
 6. [CRAZNS: A Case for Conventional Namespace Support for RAID with ZNS SSDs](https://dl.acm.org/doi/10.1145/3672608.3707937?__cf_chl_f_tk=7vHNiunXoqQitNtPAbcIWU.J3ImRgRACGTWP4jfQ9ZI-1755879586-1.0.1.1-fMTcHt2aMr80aARqgMQ8gSjbKxeTiGnSbxC.air31qw), SAC '25, Hangyul Kim, Inho Song, Sam H. Noh
 
-7. [Staying in the Zone - Retrofitting Zoned Storage into a Scalable Enterprise File System](https://apsys2025.github.io/accepted_papers.html), ApSys '25
+7. [Staying in the Zone - Retrofitting Zoned Storage into a Scalable Enterprise File System](https://apsys2025.github.io/accepted_papers.html), ApSys '25, Christoph Hellwig; Hans Holmberg; Damien Le Moal
 
