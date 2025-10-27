@@ -204,3 +204,5 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 7. [Staying in the Zone - Retrofitting Zoned Storage into a Scalable Enterprise File System](https://apsys2025.github.io/accepted_papers.html), ApSys '25, Christoph Hellwig; Hans Holmberg; Damien Le Moal
 
+8. [ZTL: Enabling Zoned Namespace Support for File Systems](https://link.springer.com/chapter/10.1007/978-3-032-03281-2_9), ARCS '25, Jan Sass, André Brinkmann, Xubin He, Matias Bjørling, Reza Salkhordeh
+
