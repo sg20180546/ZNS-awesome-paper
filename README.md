@@ -206,3 +206,6 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 8. [ZTL: Enabling Zoned Namespace Support for File Systems](https://link.springer.com/chapter/10.1007/978-3-032-03281-2_9), ARCS '25, Jan Sass, André Brinkmann, Xubin He, Matias Bjørling, Reza Salkhordeh
 
+9. [Valet: Efficient Data Placement on Modern SSDs](https://dl.acm.org/doi/pdf/10.1145/3772052.3772256), SoCC '25, Devashish R. Purandare, Peter Alvaro, Avani Wildani, Darrell D. E. Long,
+and Ethan L. Miller
+
