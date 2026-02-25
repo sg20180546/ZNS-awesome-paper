@@ -209,3 +209,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 9. [Valet: Efficient Data Placement on Modern SSDs](https://dl.acm.org/doi/pdf/10.1145/3772052.3772256), SoCC '25, Devashish R. Purandare, Peter Alvaro, Avani Wildani, Darrell D. E. Long,
 and Ethan L. Miller
 
+## 2026
+
+1. [Unleashing Zoned UFS: Cross-Layer Optimizations for Next-Generation Mobile Storage](https://csl.snu.ac.kr/papers/fast26.pdf) FAST '26, Jungae Kim , Jaegeuk Kim , Kyu-Jin Cho , Sungjin Park, Jinwoo Kim, Jieun Kim, Iksung Oh,Chul Lee, Bart Van Assche, Daeho Jeong, Konstantin Vyshetsky, and Jin-Soo Kim
+
