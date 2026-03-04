@@ -134,6 +134,7 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 26. [LifetimeKV: Narrowing the Lifetime Gap of SSTs in LSMT-based KV Stores for ZNS SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10360942), IEEE ICCD '23, Biyong Liu, Yuan Xia, Xueliang Wei, Wei Tong
 
+
 ## 2024
 
 1. [WA-Zone: Wear-Aware Zone Management Optimization for LSM-Tree on ZNS SSDs](https://dl.acm.org/doi/pdf/10.1145/3637488), ACM TACO '24, Linbo Long, Shuiyong He, Jingcheng Shen, Renping Liu, Zhenhua Tan, Congming Gao, Duo Liu, Kan Zhong, Yi Jiang
@@ -186,6 +187,8 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 26. [Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration](), HPCA '25, Y Wang, T Lu, Y Liang, X Chen, MC Yang, ICCAD '24, Y Wang, LY Chow, X Nie, Y Liang, MC Yang
 
+27. [ZoneBuffer: An Efficient Buffer Management Scheme for ZNS SSDs](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10803121), IEEE CAL '24, Hongtao Wang, Peiquan Jin
+
 
 
 ## 2025
@@ -208,6 +211,9 @@ Huaicheng Li, Michael Kaminsky, David G. Andersen, Gregory R. Ganger, George Amv
 
 9. [Valet: Efficient Data Placement on Modern SSDs](https://dl.acm.org/doi/pdf/10.1145/3772052.3772256), SoCC '25, Devashish R. Purandare, Peter Alvaro, Avani Wildani, Darrell D. E. Long,
 and Ethan L. Miller
+
+10. [Reviving In-Storage Hardware Compression on ZNS SSDs through Host-SSD Collaboration](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10946825), HPCA '25, Y Wang, T Lu, Y Liang, X Chen, MC Yang
+
 
 ## 2026
 
