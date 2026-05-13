@@ -213,5 +213,6 @@ and Ethan L. Miller
 
 1. [Unleashing Zoned UFS: Cross-Layer Optimizations for Next-Generation Mobile Storage](https://csl.snu.ac.kr/papers/fast26.pdf) FAST '26, Jungae Kim , Jaegeuk Kim , Kyu-Jin Cho , Sungjin Park, Jinwoo Kim, Jieun Kim, Iksung Oh,Chul Lee, Bart Van Assche, Daeho Jeong, Konstantin Vyshetsky, and Jin-Soo Kim
 
-2. [ColdMap: Compaction-Aware Cost-Benefit Zone Cleaning for ZNS-Based Key-Value Stores](https://dipsa-qub.github.io/ICS2026-webpage/), ICS '26, Sungjin Byeon, Kyungwook Min, Jaewan Park, Sangyun Lee, Hong-Yeon Kim, Junyoung Han, Joo-Young Hwang, Zhichao Cao and Youngjae Kim
+2. [ColdMap: Compaction-Aware Cost-Benefit Zone Cleaning for ZNS-Based Key-Value Stores](https://dipsa-qub.github.io/ICS2026-webpage/program/list-accepted-papers.html), ICS '26, Sungjin Byeon, Kyungwook Min, Jaewan Park, Sangyun Lee, Hong-Yeon Kim, Junyoung Han, Joo-Young Hwang, Zhichao Cao and Youngjae Kim
 
+3. [Nemo: A Low-Write-Amplification Cache for Tiny Objects on Log-Structured Flash Devices](https://dl.acm.org/doi/pdf/10.1145/3779212.3790191), ASPLOS '26, Xufeng Yang, Tingting Tan, Jingxin Hu, Congming Gao, Mingyang Liu, Tianyang Jiang, Jian Chen, Linbo Long, Yina Lv, Jiwu Shu
